@@ -1,0 +1,8 @@
+.rover-photo {
+    max-width: 100%;
+    margin-bottom: 20px;
+    object-fit: cover;
+    object-position: center;
+    width: 400px; /* Adjust the width as per your preference */
+    height: 300px; /* Adjust the height as per your preference */
+}
